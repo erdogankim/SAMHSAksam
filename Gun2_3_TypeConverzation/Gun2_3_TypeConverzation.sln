@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gun2_3_TypeConverzation", "Gun2_3_TypeConverzation\Gun2_3_TypeConverzation.csproj", "{03C9F64B-9910-434D-BCF1-9E87F51480E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03C9F64B-9910-434D-BCF1-9E87F51480E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C9F64B-9910-434D-BCF1-9E87F51480E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C9F64B-9910-434D-BCF1-9E87F51480E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C9F64B-9910-434D-BCF1-9E87F51480E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3C9A1A7-8E7F-4EE1-AF97-080B58AF7E06}
+	EndGlobalSection
+EndGlobal
