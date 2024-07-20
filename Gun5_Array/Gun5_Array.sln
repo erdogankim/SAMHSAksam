@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gun5_Array", "Gun5_Array\Gun5_Array.csproj", "{ABE76BB6-6767-4E87-A119-4EE923B67681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABE76BB6-6767-4E87-A119-4EE923B67681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE76BB6-6767-4E87-A119-4EE923B67681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE76BB6-6767-4E87-A119-4EE923B67681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE76BB6-6767-4E87-A119-4EE923B67681}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {641BC843-FB7D-4337-8A21-49F43565C70E}
+	EndGlobalSection
+EndGlobal
