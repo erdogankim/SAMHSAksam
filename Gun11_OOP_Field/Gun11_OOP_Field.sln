@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gun11_OOP_Field", "Gun11_OOP_Field\Gun11_OOP_Field.csproj", "{5620E1E5-B599-4727-B7EF-FDB70B35AEC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5620E1E5-B599-4727-B7EF-FDB70B35AEC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5620E1E5-B599-4727-B7EF-FDB70B35AEC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5620E1E5-B599-4727-B7EF-FDB70B35AEC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5620E1E5-B599-4727-B7EF-FDB70B35AEC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7145D636-38D0-4E02-B4C7-45C7D2712ABB}
+	EndGlobalSection
+EndGlobal
