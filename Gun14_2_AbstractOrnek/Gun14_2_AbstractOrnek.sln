@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gun14_2_AbstractOrnek", "Gun14_2_AbstractOrnek\Gun14_2_AbstractOrnek.csproj", "{0D8AB779-1C73-4B9B-9B9E-2C30A3339CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D8AB779-1C73-4B9B-9B9E-2C30A3339CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8AB779-1C73-4B9B-9B9E-2C30A3339CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D8AB779-1C73-4B9B-9B9E-2C30A3339CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D8AB779-1C73-4B9B-9B9E-2C30A3339CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55F6211B-BA10-457A-AB72-DE23A316B90D}
+	EndGlobalSection
+EndGlobal
