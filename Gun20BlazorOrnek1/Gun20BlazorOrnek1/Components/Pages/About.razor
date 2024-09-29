@@ -1,0 +1,28 @@
+﻿@page "/about"
+@attribute [StreamRendering]
+<h3>My About Page</h3>
+
+<p>My cv will be here...</p>
+
+<table border="1">
+    <tr>
+        @for (int i = 0; i < mesajSayisi; i++)
+        {
+            <td>Selam</td>
+        }
+    </tr>
+</table>
+
+<ul>
+    @if (arrCities == null)
+    {
+        <li>Şehirler yükleniyor...</li>
+    }
+    else
+    {
+        @foreach (var item in arrCities)
+        {
+            <li>@item</li>
+        }
+    }
+</ul>

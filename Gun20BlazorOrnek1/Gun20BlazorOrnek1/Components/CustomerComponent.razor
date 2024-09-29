@@ -1,0 +1,22 @@
+﻿@page "/customer"
+<h3>Customer</h3>
+
+@if (customers == null)
+{
+    <div>
+        <p>Müşteriler yükleniyor...</p>
+    </div>
+}
+else
+{
+    @foreach (var customer in customers)
+    {
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">@customer.CompanyName</h5>
+                <h6 class="card-subtitle mb-2 text-muted">@customer.CustomerId</h6>
+                <p class="card-text">@customer.Phone</p>
+            </div>
+        </div>
+    }
+}
